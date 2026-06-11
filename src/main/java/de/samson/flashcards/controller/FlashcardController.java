@@ -17,8 +17,14 @@ public class FlashcardController {
     }
 
     // Wenn ein GET-Request an /api/flashcards kommt, feuert diese Methode
+    // Neu: Wir akzeptieren einen optionalen Suchparameter
     @GetMapping
-    public List<Flashcard> getAllCards() {
-        return repository.findAll(); // Holt alle Karten aus der Datenbank und macht daraus JSON
+    public List<Flashcard> getCards(@RequestParam(required = false) String fachbereich) {
+        if (fachbereich != null && !fachbereich.isEmpty()) {
+            // Gefilterte Liste zurückgeben
+            return repository.findByFachbereich(fachbereich);
+        }
+        // Alle zurückgeben, wenn nichts ausgewählt ist
+        return repository.findAll();
     }
 }
