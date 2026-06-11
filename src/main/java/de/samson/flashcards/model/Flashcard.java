@@ -1,4 +1,4 @@
-package de.samson.flashcards;
+package de.samson.flashcards.model;
 
 import jakarta.persistence.*;
 import lombok.*;
@@ -13,9 +13,9 @@ public class Flashcard {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-    private String fachbereich; // z.B. "Hardware" oder "Netzwerke"
+    private String fachbereich;
     private String frage;
-    @Column(length = 1000) // Falls die Antwort mal länger ist
+    @Column(length = 1000)
     private String antwort;
+    private String imagePath; // Hier speichern wir z.B. "/images/_03_it_systeme/1"
 }
