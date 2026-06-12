@@ -45,21 +45,46 @@ public class DataInitializer implements CommandLineRunner {
 
                 karte.setFachbereich(dto.getThema());
                 karte.setSchwierigkeit(dto.getSchwierigkeit());
+                //karte.setFrage("");
                 karte.setFrage("Karten-ID: " + dto.getId()); // Wir nutzen die ID als Fragetext
                 karte.setAntwort("Lösung auf der Rückseite");
 
-                // Pfad-Umbau: Wir ändern "assets/" zu "/images/" und schneiden "_1.jpg" ab!
-                // Neuer Code (mit dem fehlenden Unterstrich!):
+                // Pfad-Umbau passend zur Festplatten-Ordnerstruktur:
                 if (dto.getPfad_v() != null) {
-                    String basisPfad = dto.getPfad_v()
-                            .replace("assets/", "/images/_") // <-- Hier ist der magische Unterstrich!
-                            .replace("_1.jpg", "");
+                    // Extrahiere die Dateinummer (z.B. "27" aus "assets/01_arbeitsaufgaben/27_1.jpg")
+                    String[] parts = dto.getPfad_v().split("/");
+                    String dateiName = parts[parts.length - 1]; // "27_1.jpg"
+                    String nummer = dateiName.replace("_1.jpg", ""); // "27"
+
+                    // Standard-Ordner falls nichts matcht
+                    String ordner = "_01_arbeitsaufgaben";
+                    String thema = dto.getThema();
+
+                    // Ordner-Zuweisung basierend auf dem echten Fachbereich
+                    if ("Informieren und Beraten von Kunden und Kundinnen".equals(thema)) {
+                        ordner = "_02_kundenberatung";
+                    } else if ("Beurteilen marktgängiger IT-Systeme und Lösungen".equals(thema)) {
+                        ordner = "_03_it_systeme";
+                    } else if ("Entwickeln, Erstellen und Betreuen von IT-Lösungen".equals(thema)) {
+                        ordner = "_04_it_loesungen";
+                    } else if ("Qualitätssichernde Maßnahmen".equals(thema)) {
+                        ordner = "_05_qualitaetssicherung";
+                    } else if ("IT-Sicherheit und Datenschutz, Ergonomie".equals(thema)) {
+                        ordner = "_06_it_sicherheit";
+                    } else if ("Auftragsabschluss und Leistungserbringung".equals(thema)) {
+                        ordner = "_07_auftragsabschluss";
+                    }
+
+                    // Der absolut fehlerfreie Pfad für das Frontend
+                    String basisPfad = "/images/" + ordner + "/" + nummer;
                     karte.setImagePath(basisPfad);
                 }
 
                 // In die H2 Datenbank speichern
                 repository.save(karte);
             }
+
+            System.out.println("Erfolgreich " + importKarten.size() + " Karten mit korrigierten Pfaden importiert!");
 
         } catch (Exception e) {
             System.err.println("Fehler beim JSON-Import: " + e.getMessage());

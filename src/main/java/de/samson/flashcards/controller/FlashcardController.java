@@ -20,9 +20,6 @@ public class FlashcardController {
             @RequestParam(required = false) String fachbereich,
             @RequestParam(required = false) Integer schwierigkeit) {
 
-        // --- ENTFERNE ODER KOMMENTIERE DIESE ZEILE AUS ---
-        // System.out.println("Filter erhalten: Fachbereich='" + fachbereich + "'...");
-
         if (fachbereich != null) {
             fachbereich = fachbereich.trim();
         }
@@ -31,7 +28,6 @@ public class FlashcardController {
             return repository.findByFachbereichContainingIgnoreCaseAndSchwierigkeit(fachbereich, schwierigkeit);
         }
         else if (fachbereich != null && !fachbereich.isEmpty()) {
-            // --- HIER KEINE PRINT-AUSGABEN MEHR ---
             return repository.findByFachbereichContainingIgnoreCase(fachbereich);
         }
         else if (schwierigkeit != null) {

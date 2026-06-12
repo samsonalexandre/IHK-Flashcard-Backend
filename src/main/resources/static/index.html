@@ -29,13 +29,13 @@
         <label for="kategorieFilter" style="font-weight: bold;">Lernbereich:</label>
         <select id="kategorieFilter" onchange="ladeKarten()">
             <option value="">Alle</option>
-            <option value="Auftragsabschluss und Leistungserbringung">Auftragsabschluss und Leistungserbringung</option>
+            <option value="Planen, Vorbereiten und Durchführen von Arbeitsaufgaben">Planen, Vorbereiten und Durchführen von Arbeitsaufgaben</option>
+            <option value="Informieren und Beraten von Kunden und Kundinnen">Informieren und Beraten von Kunden und Kundinnen</option>
             <option value="Beurteilen marktgängiger IT-Systeme und Lösungen">Beurteilen marktgängiger IT-Systeme und Lösungen</option>
             <option value="Entwickeln, Erstellen und Betreuen von IT-Lösungen">Entwickeln, Erstellen und Betreuen von IT-Lösungen</option>
-            <option value="IT-Sicherheit und Datenschutz, Ergonomie">IT-Sicherheit und Datenschutz, Ergonomie</option>
-            <option value="Informieren und Beraten von Kunden und Kundinnen">Informieren und Beraten von Kunden und Kundinnen</option>
-            <option value="Planen, Vorbereiten und Durchführen von Arbeitsaufgaben">Planen, Vorbereiten und Durchführen von Arbeitsaufgaben</option>
             <option value="Qualitätssichernde Maßnahmen">Qualitätssichernde Maßnahmen</option>
+            <option value="IT-Sicherheit und Datenschutz, Ergonomie">IT-Sicherheit und Datenschutz, Ergonomie</option>
+            <option value="Auftragsabschluss und Leistungserbringung">Auftragsabschluss und Leistungserbringung</option>
         </select>
     </div>
 
@@ -84,7 +84,7 @@
                 apiPfad += "?" + params.toString();
             }
 
-            const response = await fetch(apiPfad);
+            const response = await fetch(apiPfad, { cache: "no-store" });
             karten = await response.json();
 
             aktuelleKarteIndex = 0;
