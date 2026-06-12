@@ -45,7 +45,6 @@ public class DataInitializer implements CommandLineRunner {
 
                 karte.setFachbereich(dto.getThema());
                 karte.setSchwierigkeit(dto.getSchwierigkeit());
-                //karte.setFrage("");
                 karte.setFrage("Karten-ID: " + dto.getId()); // Wir nutzen die ID als Fragetext
                 karte.setAntwort("Lösung auf der Rückseite");
 
