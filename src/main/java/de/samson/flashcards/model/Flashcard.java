@@ -14,6 +14,7 @@ public class Flashcard {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String fachbereich;
+    private Integer schwierigkeit; // NEU: 1 = leicht, 2 = mittel, 3 = schwer
     private String frage;
     @Column(length = 1000)
     private String antwort;

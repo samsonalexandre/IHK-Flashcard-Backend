@@ -1,0 +1,1890 @@
+[
+  {
+    "id": 1,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/1_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/1_2.jpg"
+  },
+  {
+    "id": 2,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/2_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/2_2.jpg"
+  },
+  {
+    "id": 3,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/3_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/3_2.jpg"
+  },
+  {
+    "id": 4,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/4_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/4_2.jpg"
+  },
+  {
+    "id": 5,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/5_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/5_2.jpg"
+  },
+  {
+    "id": 6,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/6_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/6_2.jpg"
+  },
+  {
+    "id": 7,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/7_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/7_2.jpg"
+  },
+  {
+    "id": 8,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/8_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/8_2.jpg"
+  },
+  {
+    "id": 9,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/9_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/9_2.jpg"
+  },
+  {
+    "id": 10,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/10_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/10_2.jpg"
+  },
+  {
+    "id": 11,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/11_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/11_2.jpg"
+  },
+  {
+    "id": 12,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/12_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/12_2.jpg"
+  },
+  {
+    "id": 13,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/13_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/13_2.jpg"
+  },
+  {
+    "id": 14,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/14_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/14_2.jpg"
+  },
+  {
+    "id": 15,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/15_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/15_2.jpg"
+  },
+  {
+    "id": 16,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/16_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/16_2.jpg"
+  },
+  {
+    "id": 17,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/17_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/17_2.jpg"
+  },
+  {
+    "id": 18,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/18_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/18_2.jpg"
+  },
+  {
+    "id": 19,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/19_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/19_2.jpg"
+  },
+  {
+    "id": 20,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/20_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/20_2.jpg"
+  },
+  {
+    "id": 21,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/21_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/21_2.jpg"
+  },
+  {
+    "id": 22,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/22_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/22_2.jpg"
+  },
+  {
+    "id": 23,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/23_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/23_2.jpg"
+  },
+  {
+    "id": 24,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/24_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/24_2.jpg"
+  },
+  {
+    "id": 25,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/25_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/25_2.jpg"
+  },
+  {
+    "id": 26,
+    "thema": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/26_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/26_2.jpg"
+  },
+  {
+    "id": 27,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/27_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/27_2.jpg"
+  },
+  {
+    "id": 28,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/28_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/28_2.jpg"
+  },
+  {
+    "id": 29,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/29_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/29_2.jpg"
+  },
+  {
+    "id": 30,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/30_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/30_2.jpg"
+  },
+  {
+    "id": 31,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/31_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/31_2.jpg"
+  },
+  {
+    "id": 32,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/32_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/32_2.jpg"
+  },
+  {
+    "id": 33,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/33_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/33_2.jpg"
+  },
+  {
+    "id": 34,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/34_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/34_2.jpg"
+  },
+  {
+    "id": 35,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/35_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/35_2.jpg"
+  },
+  {
+    "id": 36,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/36_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/36_2.jpg"
+  },
+  {
+    "id": 37,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/37_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/37_2.jpg"
+  },
+  {
+    "id": 38,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/38_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/38_2.jpg"
+  },
+  {
+    "id": 39,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/39_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/39_2.jpg"
+  },
+  {
+    "id": 40,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/40_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/40_2.jpg"
+  },
+  {
+    "id": 41,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/41_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/41_2.jpg"
+  },
+  {
+    "id": 42,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/42_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/42_2.jpg"
+  },
+  {
+    "id": 43,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/43_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/43_2.jpg"
+  },
+  {
+    "id": 44,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/44_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/44_2.jpg"
+  },
+  {
+    "id": 45,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/45_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/45_2.jpg"
+  },
+  {
+    "id": 46,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/46_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/46_2.jpg"
+  },
+  {
+    "id": 47,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/47_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/47_2.jpg"
+  },
+  {
+    "id": 48,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/48_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/48_2.jpg"
+  },
+  {
+    "id": 49,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/49_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/49_2.jpg"
+  },
+  {
+    "id": 50,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/50_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/50_2.jpg"
+  },
+  {
+    "id": 51,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/51_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/51_2.jpg"
+  },
+  {
+    "id": 52,
+    "thema": "Informieren und Beraten von Kunden und Kundinnen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/52_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/52_2.jpg"
+  },
+  {
+    "id": 53,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/53_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/53_2.jpg"
+  },
+  {
+    "id": 54,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/54_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/54_2.jpg"
+  },
+  {
+    "id": 55,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/55_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/55_2.jpg"
+  },
+  {
+    "id": 56,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/56_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/56_2.jpg"
+  },
+  {
+    "id": 57,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/57_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/57_2.jpg"
+  },
+  {
+    "id": 58,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/58_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/58_2.jpg"
+  },
+  {
+    "id": 59,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/59_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/59_2.jpg"
+  },
+  {
+    "id": 60,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/60_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/60_2.jpg"
+  },
+  {
+    "id": 61,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/61_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/61_2.jpg"
+  },
+  {
+    "id": 62,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/62_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/62_2.jpg"
+  },
+  {
+    "id": 63,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/63_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/63_2.jpg"
+  },
+  {
+    "id": 64,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/64_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/64_2.jpg"
+  },
+  {
+    "id": 65,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/65_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/65_2.jpg"
+  },
+  {
+    "id": 66,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/66_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/66_2.jpg"
+  },
+  {
+    "id": 67,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/67_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/67_2.jpg"
+  },
+  {
+    "id": 68,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/68_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/68_2.jpg"
+  },
+  {
+    "id": 69,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/69_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/69_2.jpg"
+  },
+  {
+    "id": 70,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/70_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/70_2.jpg"
+  },
+  {
+    "id": 71,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/71_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/71_2.jpg"
+  },
+  {
+    "id": 72,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/72_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/72_2.jpg"
+  },
+  {
+    "id": 73,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/73_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/73_2.jpg"
+  },{
+  "id": 74,
+  "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+  "schwierigkeit": 2,
+  "pfad_v": "assets/01_arbeitsaufgaben/74_1.jpg",
+  "pfad_r": "assets/01_arbeitsaufgaben/74_2.jpg"
+},
+  {
+    "id": 75,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/75_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/75_2.jpg"
+  },
+  {
+    "id": 76,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/76_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/76_2.jpg"
+  },
+  {
+    "id": 77,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/77_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/77_2.jpg"
+  },
+  {
+    "id": 78,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/78_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/78_2.jpg"
+  },
+  {
+    "id": 79,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/79_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/79_2.jpg"
+  },
+  {
+    "id": 80,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/80_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/80_2.jpg"
+  },
+  {
+    "id": 81,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/81_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/81_2.jpg"
+  },
+  {
+    "id": 82,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/82_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/82_2.jpg"
+  },
+  {
+    "id": 83,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/83_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/83_2.jpg"
+  },
+  {
+    "id": 84,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/84_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/84_2.jpg"
+  },
+  {
+    "id": 85,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/85_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/85_2.jpg"
+  },
+  {
+    "id": 86,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/86_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/86_2.jpg"
+  },
+  {
+    "id": 87,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/87_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/87_2.jpg"
+  },
+  {
+    "id": 88,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/88_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/88_2.jpg"
+  },
+  {
+    "id": 89,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/89_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/89_2.jpg"
+  },
+  {
+    "id": 90,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/90_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/90_2.jpg"
+  },
+  {
+    "id": 91,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/91_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/91_2.jpg"
+  },
+  {
+    "id": 92,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/92_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/92_2.jpg"
+  },
+  {
+    "id": 93,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/93_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/93_2.jpg"
+  },
+  {
+    "id": 94,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/94_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/94_2.jpg"
+  },
+  {
+    "id": 95,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/95_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/95_2.jpg"
+  },
+  {
+    "id": 96,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/96_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/96_2.jpg"
+  },
+  {
+    "id": 97,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/97_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/97_2.jpg"
+  },
+  {
+    "id": 98,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/98_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/98_2.jpg"
+  },
+  {
+    "id": 99,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/99_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/99_2.jpg"
+  },
+  {
+    "id": 100,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/100_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/100_2.jpg"
+  },
+  {
+    "id": 101,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/101_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/101_2.jpg"
+  },
+  {
+    "id": 102,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/102_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/102_2.jpg"
+  },
+  {
+    "id": 103,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/103_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/103_2.jpg"
+  },
+  {
+    "id": 104,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/104_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/104_2.jpg"
+  },
+  {
+    "id": 105,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/105_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/105_2.jpg"
+  },
+  {
+    "id": 106,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/106_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/106_2.jpg"
+  },
+  {
+    "id": 107,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/107_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/107_2.jpg"
+  },
+  {
+    "id": 108,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/108_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/108_2.jpg"
+  },
+  {
+    "id": 109,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/109_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/109_2.jpg"
+  },
+  {
+    "id": 110,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/110_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/110_2.jpg"
+  },
+  {
+    "id": 111,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/111_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/111_2.jpg"
+  },
+  {
+    "id": 112,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/112_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/112_2.jpg"
+  },
+  {
+    "id": 113,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/113_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/113_2.jpg"
+  },
+  {
+    "id": 114,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/114_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/114_2.jpg"
+  },
+  {
+    "id": 115,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/115_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/115_2.jpg"
+  },
+  {
+    "id": 116,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/116_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/116_2.jpg"
+  },
+  {
+    "id": 117,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/117_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/117_2.jpg"
+  },
+  {
+    "id": 118,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/118_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/118_2.jpg"
+  },
+  {
+    "id": 119,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/119_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/119_2.jpg"
+  },
+  {
+    "id": 120,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/120_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/120_2.jpg"
+  },
+  {
+    "id": 121,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/121_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/121_2.jpg"
+  },
+  {
+    "id": 122,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/122_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/122_2.jpg"
+  },
+  {
+    "id": 123,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/123_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/123_2.jpg"
+  },
+  {
+    "id": 124,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/124_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/124_2.jpg"
+  },
+  {
+    "id": 125,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/125_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/125_2.jpg"
+  },
+  {
+    "id": 126,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/126_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/126_2.jpg"
+  },
+  {
+    "id": 127,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/127_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/127_2.jpg"
+  },
+  {
+    "id": 128,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/128_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/128_2.jpg"
+  },
+  {
+    "id": 129,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/129_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/129_2.jpg"
+  },
+  {
+    "id": 130,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/130_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/130_2.jpg"
+  },
+  {
+    "id": 131,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/131_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/131_2.jpg"
+  },
+  {
+    "id": 132,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/132_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/132_2.jpg"
+  },
+  {
+    "id": 133,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/133_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/133_2.jpg"
+  },{
+  "id": 134,
+  "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+  "schwierigkeit": 2,
+  "pfad_v": "assets/01_arbeitsaufgaben/134_1.jpg",
+  "pfad_r": "assets/01_arbeitsaufgaben/134_2.jpg"
+},
+  {
+    "id": 135,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/135_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/135_2.jpg"
+  },
+  {
+    "id": 136,
+    "thema": "Beurteilen marktgängiger IT-Systeme und Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/136_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/136_2.jpg"
+  },
+  {
+    "id": 137,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/137_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/137_2.jpg"
+  },
+  {
+    "id": 138,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/138_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/138_2.jpg"
+  },
+  {
+    "id": 139,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/139_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/139_2.jpg"
+  },
+  {
+    "id": 140,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/140_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/140_2.jpg"
+  },
+  {
+    "id": 141,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/141_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/141_2.jpg"
+  },
+  {
+    "id": 142,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/142_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/142_2.jpg"
+  },
+  {
+    "id": 143,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/143_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/143_2.jpg"
+  },
+  {
+    "id": 144,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/144_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/144_2.jpg"
+  },
+  {
+    "id": 145,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/145_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/145_2.jpg"
+  },
+  {
+    "id": 146,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/146_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/146_2.jpg"
+  },
+  {
+    "id": 147,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/147_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/147_2.jpg"
+  },
+  {
+    "id": 148,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/148_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/148_2.jpg"
+  },
+  {
+    "id": 149,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/149_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/149_2.jpg"
+  },
+  {
+    "id": 150,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/150_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/150_2.jpg"
+  },
+  {
+    "id": 151,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/151_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/151_2.jpg"
+  },
+  {
+    "id": 152,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/152_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/152_2.jpg"
+  },
+  {
+    "id": 153,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/153_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/153_2.jpg"
+  },
+  {
+    "id": 154,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/154_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/154_2.jpg"
+  },
+  {
+    "id": 155,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/155_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/155_2.jpg"
+  },
+  {
+    "id": 156,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/156_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/156_2.jpg"
+  },
+  {
+    "id": 157,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/157_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/157_2.jpg"
+  },
+  {
+    "id": 158,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/158_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/158_2.jpg"
+  },
+  {
+    "id": 159,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/159_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/159_2.jpg"
+  },
+  {
+    "id": 160,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/160_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/160_2.jpg"
+  },
+  {
+    "id": 161,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/161_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/161_2.jpg"
+  },
+  {
+    "id": 162,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/162_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/162_2.jpg"
+  },
+  {
+    "id": 163,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/163_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/163_2.jpg"
+  },
+  {
+    "id": 164,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/164_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/164_2.jpg"
+  },
+  {
+    "id": 165,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/165_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/165_2.jpg"
+  },
+  {
+    "id": 166,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/166_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/166_2.jpg"
+  },
+  {
+    "id": 167,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/167_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/167_2.jpg"
+  },
+  {
+    "id": 168,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/168_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/168_2.jpg"
+  },
+  {
+    "id": 169,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/169_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/169_2.jpg"
+  },
+  {
+    "id": 170,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/170_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/170_2.jpg"
+  },
+  {
+    "id": 171,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/171_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/171_2.jpg"
+  },
+  {
+    "id": 172,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/172_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/172_2.jpg"
+  },
+  {
+    "id": 173,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/173_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/173_2.jpg"
+  },
+  {
+    "id": 174,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/174_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/174_2.jpg"
+  },
+  {
+    "id": 175,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/175_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/175_2.jpg"
+  },
+  {
+    "id": 176,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/176_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/176_2.jpg"
+  },
+  {
+    "id": 177,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/177_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/177_2.jpg"
+  },
+  {
+    "id": 178,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/178_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/178_2.jpg"
+  },
+  {
+    "id": 179,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/179_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/179_2.jpg"
+  },
+  {
+    "id": 180,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/180_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/180_2.jpg"
+  },
+  {
+    "id": 181,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/181_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/181_2.jpg"
+  },
+  {
+    "id": 182,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/182_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/182_2.jpg"
+  },
+  {
+    "id": 183,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/183_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/183_2.jpg"
+  },
+  {
+    "id": 184,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/184_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/184_2.jpg"
+  },
+  {
+    "id": 185,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/185_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/185_2.jpg"
+  },
+  {
+    "id": 186,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/186_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/186_2.jpg"
+  },
+  {
+    "id": 187,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/187_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/187_2.jpg"
+  },
+  {
+    "id": 188,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/188_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/188_2.jpg"
+  },
+  {
+    "id": 189,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/189_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/189_2.jpg"
+  },
+  {
+    "id": 190,
+    "thema": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/190_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/190_2.jpg"
+  },
+  {
+    "id": 191,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/191_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/191_2.jpg"
+  },
+  {
+    "id": 192,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/192_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/192_2.jpg"
+  },
+  {
+    "id": 193,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/193_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/193_2.jpg"
+  },
+  {
+    "id": 194,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/194_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/194_2.jpg"
+  },
+  {
+    "id": 195,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/195_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/195_2.jpg"
+  },
+  {
+    "id": 196,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/196_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/196_2.jpg"
+  },
+  {
+    "id": 197,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/197_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/197_2.jpg"
+  },
+  {
+    "id": 198,
+    "thema": "Qualitätssichernde Maßnahmen",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/198_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/198_2.jpg"
+  },
+  {
+    "id": 199,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/199_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/199_2.jpg"
+  },
+  {
+    "id": 200,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/200_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/200_2.jpg"
+  },
+  {
+    "id": 201,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/201_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/201_2.jpg"
+  },
+  {
+    "id": 202,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/202_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/202_2.jpg"
+  },
+  {
+    "id": 203,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/203_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/203_2.jpg"
+  },
+  {
+    "id": 204,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/204_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/204_2.jpg"
+  },
+  {
+    "id": 205,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/205_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/205_2.jpg"
+  },
+  {
+    "id": 206,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/206_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/206_2.jpg"
+  },
+  {
+    "id": 207,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/207_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/207_2.jpg"
+  },
+  {
+    "id": 208,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/208_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/208_2.jpg"
+  },
+  {
+    "id": 209,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/209_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/209_2.jpg"
+  },
+  {
+    "id": 210,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/210_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/210_2.jpg"
+  },
+  {
+    "id": 211,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/211_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/211_2.jpg"
+  },
+  {
+    "id": 212,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/212_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/212_2.jpg"
+  },
+  {
+    "id": 213,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/213_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/213_2.jpg"
+  },
+  {
+    "id": 214,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/214_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/214_2.jpg"
+  },
+  {
+    "id": 215,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/215_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/215_2.jpg"
+  },
+  {
+    "id": 216,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/216_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/216_2.jpg"
+  },
+  {
+    "id": 217,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/217_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/217_2.jpg"
+  },
+  {
+    "id": 218,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/218_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/218_2.jpg"
+  },
+  {
+    "id": 219,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/219_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/219_2.jpg"
+  },
+  {
+    "id": 220,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/220_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/220_2.jpg"
+  },
+  {
+    "id": 221,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/221_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/221_2.jpg"
+  },
+  {
+    "id": 222,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/222_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/222_2.jpg"
+  },
+  {
+    "id": 223,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/223_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/223_2.jpg"
+  },
+  {
+    "id": 224,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/224_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/224_2.jpg"
+  },
+  {
+    "id": 225,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/225_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/225_2.jpg"
+  },
+  {
+    "id": 226,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/226_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/226_2.jpg"
+  },
+  {
+    "id": 227,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/227_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/227_2.jpg"
+  },
+  {
+    "id": 228,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/228_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/228_2.jpg"
+  },
+  {
+    "id": 229,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/229_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/229_2.jpg"
+  },
+  {
+    "id": 230,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/230_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/230_2.jpg"
+  },
+  {
+    "id": 231,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/231_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/231_2.jpg"
+  },
+  {
+    "id": 232,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/232_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/232_2.jpg"
+  },
+  {
+    "id": 233,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/233_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/233_2.jpg"
+  },
+  {
+    "id": 234,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/234_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/234_2.jpg"
+  },
+  {
+    "id": 235,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/235_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/235_2.jpg"
+  },
+  {
+    "id": 236,
+    "thema": "IT-Sicherheit und Datenschutz, Ergonomie",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/236_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/236_2.jpg"
+  },
+  {
+    "id": 237,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/237_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/237_2.jpg"
+  },
+  {
+    "id": 238,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/238_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/238_2.jpg"
+  },
+  {
+    "id": 239,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/239_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/239_2.jpg"
+  },
+  {
+    "id": 240,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/240_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/240_2.jpg"
+  },
+  {
+    "id": 241,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/241_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/241_2.jpg"
+  },
+  {
+    "id": 242,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/242_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/242_2.jpg"
+  },
+  {
+    "id": 243,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/243_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/243_2.jpg"
+  },
+  {
+    "id": 244,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/244_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/244_2.jpg"
+  },
+  {
+    "id": 245,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/245_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/245_2.jpg"
+  },
+  {
+    "id": 246,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/246_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/246_2.jpg"
+  },
+  {
+    "id": 247,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/247_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/247_2.jpg"
+  },
+  {
+    "id": 248,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/248_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/248_2.jpg"
+  },
+  {
+    "id": 249,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/249_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/249_2.jpg"
+  },
+  {
+    "id": 250,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/250_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/250_2.jpg"
+  },
+  {
+    "id": 251,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/251_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/251_2.jpg"
+  },
+  {
+    "id": 252,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/252_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/252_2.jpg"
+  },
+  {
+    "id": 253,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/253_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/253_2.jpg"
+  },
+  {
+    "id": 254,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/254_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/254_2.jpg"
+  },
+  {
+    "id": 255,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/255_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/255_2.jpg"
+  },
+  {
+    "id": 256,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/256_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/256_2.jpg"
+  },
+  {
+    "id": 257,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/257_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/257_2.jpg"
+  },
+  {
+    "id": 258,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/258_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/258_2.jpg"
+  },
+  {
+    "id": 259,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/259_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/259_2.jpg"
+  },
+  {
+    "id": 260,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/260_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/260_2.jpg"
+  },
+  {
+    "id": 261,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/261_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/261_2.jpg"
+  },
+  {
+    "id": 262,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/262_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/262_2.jpg"
+  },
+  {
+    "id": 263,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/263_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/263_2.jpg"
+  },
+  {
+    "id": 264,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 1,
+    "pfad_v": "assets/01_arbeitsaufgaben/264_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/264_2.jpg"
+  },
+  {
+    "id": 265,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/265_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/265_2.jpg"
+  },
+  {
+    "id": 266,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/266_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/266_2.jpg"
+  },
+  {
+    "id": 267,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 3,
+    "pfad_v": "assets/01_arbeitsaufgaben/267_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/267_2.jpg"
+  },
+  {
+    "id": 268,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/268_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/268_2.jpg"
+  },
+  {
+    "id": 269,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/269_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/269_2.jpg"
+  },
+  {
+    "id": 270,
+    "thema": "Auftragsabschluss und Leistungserbringung",
+    "schwierigkeit": 2,
+    "pfad_v": "assets/01_arbeitsaufgaben/270_1.jpg",
+    "pfad_r": "assets/01_arbeitsaufgaben/270_2.jpg"
+  }
+]

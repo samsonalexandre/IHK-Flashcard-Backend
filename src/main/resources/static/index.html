@@ -16,9 +16,8 @@
         .btn-richtig { background-color: #008000; }
         .btn-falsch { background-color: #ff0000; }
 
-        /* Neues CSS für den Filter */
         .filter-container { margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 600px; text-align: center; }
-        select { padding: 8px; font-size: 16px; margin-left: 10px; border-radius: 4px; border: 1px solid #ccc; }
+        select { padding: 8px; font-size: 14px; margin-left: 10px; border-radius: 4px; border: 1px solid #ccc; max-width: 100%; }
     </style>
 </head>
 <body>
@@ -26,17 +25,29 @@
 <h1>FIAE LERN-TRAINER</h1>
 
 <div class="filter-container">
-    <label for="kategorieFilter" style="font-weight: bold; font-size: 18px;">Lernbereich auswählen:</label>
-    <select id="kategorieFilter" onchange="ladeKarten()">
-        <option value="">Alle</option>
-        <option value="Auftragsabschluss und Leistungserbringung">Auftragsabschluss und Leistungserbringung</option>
-        <option value="Beurteilen marktgängiger IT-Systeme und Lösungen">Beurteilen marktgängiger IT-Systeme und Lösungen</option>
-        <option value="Entwickeln, Erstellen und Betreuen von IT-Lösungen">Entwickeln, Erstellen und Betreuen von IT-Lösungen</option>
-        <option value="IT-Sicherheit und Datenschutz, Ergonomie">IT-Sicherheit und Datenschutz, Ergonomie</option>
-        <option value="Informieren und Beraten von Kunden und Kundinnen">Informieren und Beraten von Kunden und Kundinnen</option>
-        <option value="Planen, Vorbereiten und Durchführen von Arbeitsaufgaben">Planen, Vorbereiten und Durchführen von Arbeitsaufgaben</option>
-        <option value="Qualitätssichernde Maßnahmen">Qualitätssichernde Maßnahmen</option>
-    </select>
+    <div style="margin-bottom: 15px;">
+        <label for="kategorieFilter" style="font-weight: bold;">Lernbereich:</label>
+        <select id="kategorieFilter" onchange="ladeKarten()">
+            <option value="">Alle</option>
+            <option value="Auftragsabschluss und Leistungserbringung">Auftragsabschluss und Leistungserbringung</option>
+            <option value="Beurteilen marktgängiger IT-Systeme und Lösungen">Beurteilen marktgängiger IT-Systeme und Lösungen</option>
+            <option value="Entwickeln, Erstellen und Betreuen von IT-Lösungen">Entwickeln, Erstellen und Betreuen von IT-Lösungen</option>
+            <option value="IT-Sicherheit und Datenschutz, Ergonomie">IT-Sicherheit und Datenschutz, Ergonomie</option>
+            <option value="Informieren und Beraten von Kunden und Kundinnen">Informieren und Beraten von Kunden und Kundinnen</option>
+            <option value="Planen, Vorbereiten und Durchführen von Arbeitsaufgaben">Planen, Vorbereiten und Durchführen von Arbeitsaufgaben</option>
+            <option value="Qualitätssichernde Maßnahmen">Qualitätssichernde Maßnahmen</option>
+        </select>
+    </div>
+
+    <div>
+        <label for="schwierigkeitFilter" style="font-weight: bold;">Schwierigkeit:</label>
+        <select id="schwierigkeitFilter" onchange="ladeKarten()">
+            <option value="">Alle</option>
+            <option value="1">Leicht</option>
+            <option value="2">Mittel</option>
+            <option value="3">Schwer</option>
+        </select>
+    </div>
 </div>
 
 <div class="card" id="flashcardArea">
@@ -59,36 +70,39 @@
     let karten = [];
     let aktuelleKarteIndex = 0;
 
-    // 1. Daten laden (Jetzt mit Filter-Logik!)
     async function ladeKarten() {
         try {
-            // Welcher Wert ist im Dropdown ausgewählt?
             const filterWert = document.getElementById('kategorieFilter').value;
-            let apiPfad = '/api/flashcards';
+            const schwierigkeitWert = document.getElementById('schwierigkeitFilter').value;
 
-            // Wenn ein Filter gesetzt ist, hängen wir ihn als Parameter an die URL an
-            if (filterWert !== "") {
-                apiPfad += "?fachbereich=" + encodeURIComponent(filterWert);
+            let params = new URLSearchParams();
+            if (filterWert !== "") params.append("fachbereich", filterWert);
+            if (schwierigkeitWert !== "") params.append("schwierigkeit", schwierigkeitWert);
+
+            let apiPfad = '/api/flashcards';
+            if (params.toString() !== "") {
+                apiPfad += "?" + params.toString();
             }
 
             const response = await fetch(apiPfad);
             karten = await response.json();
 
-            aktuelleKarteIndex = 0; // Beim Neuladen immer bei Karte 0 anfangen
+            aktuelleKarteIndex = 0;
             zeigeKarte(0);
         } catch (error) {
-            console.error("Fehler beim Laden:", error);
+            console.error("Fehler beim Laden der Karten:", error);
             document.getElementById('cardFrage').innerText = "Fehler beim Laden der Daten vom Server.";
         }
     }
 
-    // (Der Rest bleibt exakt wie bei dir!)
     function zeigeKarte(index) {
         if (karten.length === 0) {
             document.getElementById('cardThema').innerText = "Bereich: -";
-            document.getElementById('cardFrage').innerText = "Keine Karten für diesen Bereich gefunden.";
+            document.getElementById('cardFrage').innerText = "Keine Karten für diese Auswahl gefunden.";
             document.getElementById('cardImage').style.display = 'none';
             document.getElementById('btnLoesung').style.display = 'none';
+            document.getElementById('cardAntwort').style.display = 'none';
+            document.getElementById('bewertungButtons').style.display = 'none';
             return;
         }
 
@@ -127,7 +141,7 @@
     function naechsteKarte() {
         aktuelleKarteIndex++;
         if (aktuelleKarteIndex >= karten.length) {
-            alert("Du hast alle Karten gelernt! Wir fangen von vorne an.");
+            alert("Du hast alle passenden Karten gelernt! Wir fangen von vorne an.");
             aktuelleKarteIndex = 0;
         }
         zeigeKarte(aktuelleKarteIndex);
