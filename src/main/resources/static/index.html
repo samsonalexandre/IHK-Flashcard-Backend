@@ -28,12 +28,6 @@
             line-height: 1.4;
             white-space: pre-line; /* Erlaubt Zeilenumbrüche für die Fortschrittsanzeige */
         }
-        .antwort {
-            font-size: 20px;
-            color: #2c3e50;
-            margin-top: 20px;
-            display: none;
-        }
         .card-image {
             max-width: 100%;
             height: auto;
@@ -141,8 +135,6 @@
 
     <button id="btnLoesung" onclick="zeigeLoesung()">Lösung zeigen</button>
 
-    <div class="antwort" id="cardAntwort"></div>
-
     <div class="button-group" id="bewertungButtons">
         <button class="btn-richtig" onclick="naechsteKarte()">Richtig</button>
         <button class="btn-falsch" onclick="naechsteKarte()">Falsch</button>
@@ -164,7 +156,7 @@
 
             // Filter im Browser merken
             localStorage.setItem("fiae_kategorie", filterWert);
-            localStorage.setItem("fiae_schwierigkeit", schwierigkeitWert);
+            localStorage.setItem("fiae_schwierigkeit", Retailwert = schwierigkeitWert);
 
             let params = new URLSearchParams();
             if (filterWert !== "") params.append("fachbereich", filterWert);
@@ -202,7 +194,6 @@
             document.getElementById('cardThema').innerText = "Bereich: -\nKeine Karten für diese Auswahl gefunden.";
             document.getElementById('cardImage').style.display = 'none';
             document.getElementById('btnLoesung').style.display = 'none';
-            document.getElementById('cardAntwort').style.display = 'none';
             document.getElementById('bewertungButtons').style.display = 'none';
             return;
         }
@@ -219,8 +210,7 @@
             imgElement.style.display = 'none';
         }
 
-        document.getElementById('cardAntwort').style.display = 'none';
-        document.getElementById('cardAntwort').innerText = karte.antwort;
+        // JavaScript-Referenzen auf das gelöschte Textfeld wurden hier restlos entfernt
         document.getElementById('btnLoesung').style.display = 'inline-block';
         document.getElementById('bewertungButtons').style.display = 'none';
     }
@@ -234,7 +224,6 @@
             imgElement.src = karte.imagePath + "_2.jpg";
         }
 
-        document.getElementById('cardAntwort').style.display = 'block';
         document.getElementById('btnLoesung').style.display = 'none';
         document.getElementById('bewertungButtons').style.display = 'flex';
     }
