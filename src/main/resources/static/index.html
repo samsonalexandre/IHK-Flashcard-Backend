@@ -4,20 +4,104 @@
     <meta charset="UTF-8">
     <title>FIAE Lern-Trainer</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f0f0f0; display: flex; flex-direction: column; align-items: center; margin-top: 50px; }
-        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 600px; text-align: center; }
-        .thema { font-size: 14px; color: #666; margin-bottom: 20px; }
-        .frage { font-size: 24px; font-weight: bold; margin-bottom: 20px; }
-        .antwort { font-size: 20px; color: #2c3e50; margin-top: 20px; display: none; }
-        .card-image { max-width: 100%; height: auto; margin-top: 15px; border: 1px solid #ddd; }
-        button { background-color: #0000ff; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; margin-top: 20px; }
-        button:hover { background-color: #0000cc; }
-        .button-group { display: flex; justify-content: space-around; margin-top: 20px; display: none; }
-        .btn-richtig { background-color: #008000; }
-        .btn-falsch { background-color: #ff0000; }
-
-        .filter-container { margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 600px; text-align: center; }
-        select { padding: 8px; font-size: 14px; margin-left: 10px; border-radius: 4px; border: 1px solid #ccc; max-width: 100%; }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa; /* Modernes, helles Off-White */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+            min-height: 100vh; /* Hält den Footer immer unten */
+        }
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            width: 600px;
+            text-align: center;
+        }
+        .thema {
+            font-size: 14px;
+            color: #6c757d;
+            margin-bottom: 20px;
+            line-height: 1.4;
+            white-space: pre-line; /* Erlaubt Zeilenumbrüche für die Fortschrittsanzeige */
+        }
+        .antwort {
+            font-size: 20px;
+            color: #2c3e50;
+            margin-top: 20px;
+            display: none;
+        }
+        .card-image {
+            max-width: 100%;
+            height: auto;
+            margin-top: 15px;
+            border: 1px solid #e9ecef;
+            border-radius: 6px;
+        }
+        button {
+            background-color: #0056b3; /* Angenehmes, professionelles Premium-Blau */
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+            border-radius: 6px;
+            font-weight: bold;
+            transition: background-color 0.2s;
+        }
+        button:hover {
+            background-color: #004085;
+        }
+        .button-group {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+            display: none;
+        }
+        .btn-richtig {
+            background-color: #28a745; /* Modernes Erfolgs-Grün */
+        }
+        .btn-richtig:hover {
+            background-color: #218838;
+        }
+        .btn-falsch {
+            background-color: #dc3545; /* Modernes Warn-Rot */
+        }
+        .btn-falsch:hover {
+            background-color: #c82333;
+        }
+        .filter-container {
+            margin-bottom: 20px;
+            background: white;
+            padding: 15px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            width: 600px;
+            text-align: center;
+        }
+        select {
+            padding: 8px;
+            font-size: 14px;
+            margin-left: 10px;
+            border-radius: 6px;
+            border: 1px solid #ced4da;
+            max-width: 100%;
+        }
+        label {
+            font-size: 14px;
+        }
+        .footer {
+            margin-top: auto; /* Drückt das Copyright ans Seitenende */
+            padding: 25px;
+            font-size: 13px;
+            color: #6c757d;
+            text-align: center;
+            width: 100%;
+        }
     </style>
 </head>
 <body>
@@ -27,7 +111,7 @@
 <div class="filter-container">
     <div style="margin-bottom: 15px;">
         <label for="kategorieFilter" style="font-weight: bold;">Lernbereich:</label>
-        <select id="kategorieFilter" onchange="ladeKarten()">
+        <select id="kategorieFilter" onchange="ladeKarten(true)">
             <option value="">Alle</option>
             <option value="Planen, Vorbereiten und Durchführen von Arbeitsaufgaben">Planen, Vorbereiten und Durchführen von Arbeitsaufgaben</option>
             <option value="Informieren und Beraten von Kunden und Kundinnen">Informieren und Beraten von Kunden und Kundinnen</option>
@@ -41,7 +125,7 @@
 
     <div>
         <label for="schwierigkeitFilter" style="font-weight: bold;">Schwierigkeit:</label>
-        <select id="schwierigkeitFilter" onchange="ladeKarten()">
+        <select id="schwierigkeitFilter" onchange="ladeKarten(true)">
             <option value="">Alle</option>
             <option value="1">Leicht</option>
             <option value="2">Mittel</option>
@@ -53,7 +137,6 @@
 <div class="card" id="flashcardArea">
     <div class="thema" id="cardThema">Thema wird geladen...</div>
 
-    <div class="frage" id="cardFrage">Frage wird geladen...</div>
     <img id="cardImage" class="card-image" src="" alt="Kartenbild" style="display: none;">
 
     <button id="btnLoesung" onclick="zeigeLoesung()">Lösung zeigen</button>
@@ -66,14 +149,22 @@
     </div>
 </div>
 
+<div class="footer">
+    &copy; 2026 Samson Elektronik | Entwickelt von Alexander Samson für die FIAE Vorbereitung
+</div>
+
 <script>
     let karten = [];
     let aktuelleKarteIndex = 0;
 
-    async function ladeKarten() {
+    async function ladeKarten(resetIndex = false) {
         try {
             const filterWert = document.getElementById('kategorieFilter').value;
             const schwierigkeitWert = document.getElementById('schwierigkeitFilter').value;
+
+            // Filter im Browser merken
+            localStorage.setItem("fiae_kategorie", filterWert);
+            localStorage.setItem("fiae_schwierigkeit", schwierigkeitWert);
 
             let params = new URLSearchParams();
             if (filterWert !== "") params.append("fachbereich", filterWert);
@@ -87,18 +178,28 @@
             const response = await fetch(apiPfad, { cache: "no-store" });
             karten = await response.json();
 
-            aktuelleKarteIndex = 0;
-            zeigeKarte(0);
+            // Lesezeichen auswerten
+            if (resetIndex) {
+                aktuelleKarteIndex = 0;
+                localStorage.setItem("fiae_index", 0);
+            } else {
+                let gemerkterIndex = parseInt(localStorage.getItem("fiae_index"));
+                if (isNaN(gemerkterIndex) || gemerkterIndex >= karten.length) {
+                    gemerkterIndex = 0;
+                }
+                aktuelleKarteIndex = gemerkterIndex;
+            }
+
+            zeigeKarte(aktuelleKarteIndex);
         } catch (error) {
             console.error("Fehler beim Laden der Karten:", error);
-            document.getElementById('cardFrage').innerText = "Fehler beim Laden der Daten vom Server.";
+            document.getElementById('cardThema').innerText = "Fehler beim Laden der Daten vom Server.";
         }
     }
 
     function zeigeKarte(index) {
         if (karten.length === 0) {
-            document.getElementById('cardThema').innerText = "Bereich: -";
-            document.getElementById('cardFrage').innerText = "Keine Karten für diese Auswahl gefunden.";
+            document.getElementById('cardThema').innerText = "Bereich: -\nKeine Karten für diese Auswahl gefunden.";
             document.getElementById('cardImage').style.display = 'none';
             document.getElementById('btnLoesung').style.display = 'none';
             document.getElementById('cardAntwort').style.display = 'none';
@@ -107,8 +208,8 @@
         }
 
         const karte = karten[index];
-        document.getElementById('cardThema').innerText = "Bereich: " + karte.fachbereich;
-        document.getElementById('cardFrage').innerText = karte.frage;
+        document.getElementById('cardThema').innerText =
+            "Bereich: " + karte.fachbereich + "\n(Karte " + (index + 1) + " von " + karten.length + ")";
 
         const imgElement = document.getElementById('cardImage');
         if (karte.imagePath) {
@@ -141,13 +242,27 @@
     function naechsteKarte() {
         aktuelleKarteIndex++;
         if (aktuelleKarteIndex >= karten.length) {
-            alert("Du hast alle passenden Karten gelernt! Wir fangen von vorne an.");
+            alert("Du hast alle passenden Karten in diesem Bereich gelernt! Wir fangen von vorne an.");
             aktuelleKarteIndex = 0;
         }
+
+        localStorage.setItem("fiae_index", aktuelleKarteIndex);
         zeigeKarte(aktuelleKarteIndex);
     }
 
-    window.onload = ladeKarten;
+    window.onload = function() {
+        const gemerkteKategorie = localStorage.getItem("fiae_kategorie");
+        const gemerkteSchwierigkeit = localStorage.getItem("fiae_schwierigkeit");
+
+        if (gemerkteKategorie !== null) {
+            document.getElementById('kategorieFilter').value = gemerkteKategorie;
+        }
+        if (gemerkteSchwierigkeit !== null) {
+            document.getElementById('schwierigkeitFilter').value = gemerkteSchwierigkeit;
+        }
+
+        ladeKarten(false);
+    };
 </script>
 
 </body>
