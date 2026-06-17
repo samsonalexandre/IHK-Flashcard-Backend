@@ -14,9 +14,9 @@ public class Flashcard {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String fachbereich;
-    private Integer schwierigkeit; // NEU: 1 = leicht, 2 = mittel, 3 = schwer
+    private Integer schwierigkeit; // 1 = leicht, 2 = mittel, 3 = schwer
     private String frage;
     @Column(length = 1000)
     private String antwort;
-    private String imagePath; // Hier speichern wir z.B. "/images/_03_it_systeme/1"
+    private String imagePath; // Hier speichere ich z.B. "/images/_03_it_systeme/1"
 }

@@ -26,7 +26,7 @@ public class DataInitializer implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        // Wir löschen alte Einträge, um bei jedem Start sauber neu einzulesen
+        // lösche alte Einträge, um bei jedem Start sauber neu einzulesen
         repository.deleteAll();
 
         try {
@@ -34,18 +34,18 @@ public class DataInitializer implements CommandLineRunner {
             ClassPathResource resource = new ClassPathResource("karten.json");
             InputStream inputStream = resource.getInputStream();
 
-            // 2. Das JSON in unsere Hilfsklasse (FlashcardImportDTO) übersetzen
+            // 2. Das JSON in Hilfsklasse (FlashcardImportDTO) übersetzen
             List<FlashcardImportDTO> importKarten = objectMapper.readValue(
                     inputStream, new TypeReference<List<FlashcardImportDTO>>() {}
             );
 
-            // 3. Durch alle Python-Karten gehen und in Spring-Karten umwandeln
+            // 3. Durch alle Karten gehen und in Spring-Karten umwandeln
             for (FlashcardImportDTO dto : importKarten) {
                 Flashcard karte = new Flashcard();
 
                 karte.setFachbereich(dto.getThema());
                 karte.setSchwierigkeit(dto.getSchwierigkeit());
-                karte.setFrage("Karten-ID: " + dto.getId()); // Wir nutzen die ID als Fragetext
+                karte.setFrage("Karten-ID: " + dto.getId()); // nutze die ID als Fragetext
                 karte.setAntwort("Lösung auf der Rückseite");
 
                 // Pfad-Umbau passend zur Festplatten-Ordnerstruktur:
@@ -74,7 +74,7 @@ public class DataInitializer implements CommandLineRunner {
                         ordner = "_07_auftragsabschluss";
                     }
 
-                    // Der absolut fehlerfreie Pfad für das Frontend
+                    // Der absolute Pfad für das Frontend
                     String basisPfad = "/images/" + ordner + "/" + nummer;
                     karte.setImagePath(basisPfad);
                 }
