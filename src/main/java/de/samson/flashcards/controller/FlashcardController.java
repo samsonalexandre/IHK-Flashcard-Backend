@@ -17,8 +17,8 @@ public class FlashcardController {
 
     @GetMapping
     public List<Flashcard> getCards(
-            @RequestParam(required = false) String fachbereich,
-            @RequestParam(required = false) Integer schwierigkeit) {
+            @RequestParam(value = "fachbereich", required = false) String fachbereich,
+            @RequestParam(value = "schwierigkeit", required = false) Integer schwierigkeit) {
 
         if (fachbereich != null) {
             fachbereich = fachbereich.trim();
