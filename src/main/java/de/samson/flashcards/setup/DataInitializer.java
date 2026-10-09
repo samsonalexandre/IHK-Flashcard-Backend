@@ -90,7 +90,7 @@ public class DataInitializer implements CommandLineRunner {
         }
     }
 
-    // --- Hilfsklasse (DTO) passgenau für dein Python-JSON ---
+    // --- Hilfsklasse (DTO) passgenau für Python-JSON ---
     @Getter
     @Setter
     public static class FlashcardImportDTO {
